@@ -10,7 +10,8 @@ The four continuous spaces are as follows: #1. Cart position: the distance from 
 
 #The final average reward you calculated for the random agent in Exercise 2.
 Average reward over 1000 episodes: 0.0080
-https://github.com/03240413gcbs-del/SS2025_MLA202_03240413/blob/main/Screenshot%20(2).png
+<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/61e05330-5cb1-4738-a485-a5c47dd5c099" />
+
 
 
 
@@ -19,5 +20,6 @@ Understanding and utilizing the return values from the step() method in the loop
 
 #A section on key takeaways: What is the most important or surprising thing you learned?
 The step() method's control over the agent-environment interaction was the most significant lesson I took away from this practical.  The amount of information that was returned in a single call and the part that each component plays in controlling the episode amazed me.  Another surprising discovery was that the average total reward remained low even after 1000 iterations of the while loop.  It demonstrated to me that appropriate learning techniques are required to attain better outcomes and that the agent does not necessarily get better with more runs.
+
 
 
